@@ -1,3 +1,4 @@
+<img src="banner.gif" alt="GitHub Banner" width="100%" />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!👋;This+is+Balu⚡;Nice+to+meet+you!&center=true&size=30">
